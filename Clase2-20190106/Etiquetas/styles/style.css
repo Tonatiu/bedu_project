@@ -1,0 +1,27 @@
+.blue-tittle{
+    color: green;
+}
+
+.red-tittle{
+    text-align: center;
+    color: red;
+    font-size: 70px;
+}
+
+.soscial-networks-container{
+    display: flex;
+    list-style: none;
+}
+
+.soscial-networks-kids{
+    margin-right: 10px;
+    text-align: center;
+}
+
+.hobbies-container{
+    list-style: none;
+}
+
+.social-network-img{
+    display: grid;
+}
